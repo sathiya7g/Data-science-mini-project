@@ -136,34 +136,37 @@ plt.show()
 # OUPUT
 ![image](https://github.com/sathiya7g/Data-science-mini-project/blob/e949b4308a72962fe55aa2e5b668981279d016f7/output1.png)
 ![image](https://github.com/sathiya7g/Data-science-mini-project/blob/main/output%202.png)
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
+
+![image](https://github.com/sathiya7g/Data-science-mini-project/blob/main/output3.png)
+print(f'Number of Rows: {df.shape[0]}') : to print the number of rows
+print(f'Number of Columns: {df.shape[1]}') : to print number of columns
+![image](https://github.com/sathiya7g/Data-science-mini-project/blob/main/output%204.png)
+df.columns is to retrieve the column labels or column names of a DataFrame
+to shows data at row 3 (year 1904) and row 115 (year 2016)
+![image](https://github.com/sathiya7g/Data-science-mini-project/blob/main/output%205.png)
+![image](https://github.com/sathiya7g/Data-science-mini-project/blob/main/output%206.png)
+![image](https://github.com/sathiya7g/Data-science-mini-project/blob/main/output%206.1.png)
+![image](https://github.com/sathiya7g/Data-science-mini-project/blob/main/output%207.png)
+![image](https://github.com/sathiya7g/Data-science-mini-project/blob/main/output%208.png)
+![image](https://github.com/sathiya7g/Data-science-mini-project/blob/main/output%209.png)
+![image](https://github.com/sathiya7g/Data-science-mini-project/blob/main/output%2010.png)
+![image](https://github.com/sathiya7g/Data-science-mini-project/blob/main/output%2011.png)
+![image](https://github.com/sathiya7g/Data-science-mini-project/blob/main/output12.png)
+![image](https://github.com/sathiya7g/Data-science-mini-project/blob/main/output%2013.png)
+![image](https://github.com/sathiya7g/Data-science-mini-project/blob/main/output%2014.png)
+![image](https://github.com/sathiya7g/Data-science-mini-project/blob/main/output%2015.png)
+![image](https://github.com/sathiya7g/Data-science-mini-project/blob/main/output%2016.png)
+![image](https://github.com/sathiya7g/Data-science-mini-project/blob/main/output%2017.png)
+![image](https://github.com/sathiya7g/Data-science-mini-project/blob/main/output%2018.png)
+![image](https://github.com/sathiya7g/Data-science-mini-project/blob/main/output%2019.png)
+Based on the cumulative rainfall data for the months of June, July, August, and September from 1901 to 2016,
+The cumulative rainfall values represent the total amount of rainfall received from June to September for each year. 
+The data shows variations in cumulative rainfall over time, indicating fluctuations in precipitation patterns.
+
+![image](https://github.com/sathiya7g/Data-science-mini-project/blob/main/output%2021.png)
+![image](https://github.com/sathiya7g/Data-science-mini-project/blob/main/output%2022.png)
+
+
 # RESULT
 
 Thus the rainfall analysis has been executed successfully.
