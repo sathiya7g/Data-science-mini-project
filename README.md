@@ -134,7 +134,7 @@ plt.title("Actual vs Predicted")
 plt.show()
 ```
 # OUPUT
-
+![image](https://github.com/sathiya7g/Data-science-mini-project/blob/e949b4308a72962fe55aa2e5b668981279d016f7/output1.png)
 
 # RESULT
 
